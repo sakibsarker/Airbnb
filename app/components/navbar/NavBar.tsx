@@ -1,9 +1,10 @@
+"use client";
 import React from 'react'
 import Container from '../Container'
-
 import Search from './Search'
 import Logo from '../Logo'
 import UserMenu from './UserMenu'
+
 
 const NavBar = () => {
   return (
